@@ -44,21 +44,21 @@ If you want to check what happens after we win, checkout the patch below.
 
 After the patch you can play like this: http://www.youtube.com/watch?v=pcqygeYP4qs
 
-Unlimited lives (by WiseGuy)
-BOLO.COM
-00000174: 4F 00
-00000178: DF 4A
-00000179: FE FF
+    Unlimited lives (by WiseGuy)
+    BOLO.COM
+    00000174: 4F 00
+    00000178: DF 4A
+    00000179: FE FF
 
-Unlimited fuel (by WiseGuy)
-BOLO.COM
-00000A38: 06 04
+    Unlimited fuel (by WiseGuy)
+    BOLO.COM
+    00000A38: 06 04
 
-Immortality & pass through the walls (by WiseGuy)
-BOLO.COM
-00000C61: 01 00
-0000172D: 01 00
-00001817: 01 00
+    Immortality & pass through the walls (by WiseGuy)
+    BOLO.COM
+    00000C61: 01 00
+    0000172D: 01 00
+    00001817: 01 00
 
 ### Applying the patch
 
