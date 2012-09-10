@@ -22,8 +22,11 @@ hit the center.
 Keys:
 
 cursor keys - move tank
+
 1, 2 - turn your gun
+
 3 - fire
+
 ESC - exit game
 
 - - -
